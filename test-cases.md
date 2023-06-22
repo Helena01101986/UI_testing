@@ -1,0 +1,1 @@
+[Набор тест-кейсов на проверку функционала восстановления пароля](https://docs.google.com/spreadsheets/d/17Yfr3w-YrkxNfLLzttk2RVGqaxP2n7vD7Rp8HckHcko/edit#gid=358836036)
