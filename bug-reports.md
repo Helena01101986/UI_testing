@@ -1,0 +1,1 @@
+[Баг-репорты](https://docs.google.com/spreadsheets/d/1MUUpom3ERVEl7kxQ7cPj11EFERGHWyyTx6JIM_MAYKs/edit?usp=sharing) на основании [скриншота](https://drive.google.com/file/d/1ucv3JFqEGY7ijVtP0Qn0BrdV2ipqYu37/view)
